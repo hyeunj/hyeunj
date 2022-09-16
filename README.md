@@ -1,7 +1,7 @@
 ## Hello everyone (❁´◡`❁)
 ### Good to meet you. I wish you a lucky day 🍀
 
-![image](https://user-images.githubusercontent.com/109490372/190678795-25732e64-177c-49eb-8956-b17798ada293.png)
+![cure](https://user-images.githubusercontent.com/109490372/190678993-100cf3d7-5a64-412e-b550-fd9bc1c645b1.gif)
 
 ### 🤍 Available languages
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/java-FF7800?style=flat-square&logo=openJDK&logoColor=white"/> 
