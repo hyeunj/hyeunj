@@ -22,3 +22,5 @@
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hyeunj)](https://github.com/hyeunj)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeunj&show_icons=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeunj)](https://github.com/hyeunj/github-readme-stats)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFB2F5&height=200&section=footer)
