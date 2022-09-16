@@ -19,6 +19,6 @@
 ### 🧸 SNS
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:komgolo67676767@gmail.com)](mailto:komgolo67676767@gmail.com)
 [![instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jabybmes2/)](https://www.instagram.com/jabybmes2/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hyeunj](https://github.com/hyeunj)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hyeunj)](https://github.com/hyeunj)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeunj&show_icons=true&theme=buefy)
