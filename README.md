@@ -1,5 +1,4 @@
-## Hello everyone (❁´◡`❁)
-### Good to meet you. I wish you a lucky day 🍀
+## lucky day 🍀
 
 ![cure](https://user-images.githubusercontent.com/109490372/190678993-100cf3d7-5a64-412e-b550-fd9bc1c645b1.gif)
 
